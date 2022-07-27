@@ -1,0 +1,10 @@
+
+.navbar{
+  padding: 15px 7%;
+}
+@media screen and (max-width:835px) {
+  
+  .time{
+    text-align: center;
+  }
+}

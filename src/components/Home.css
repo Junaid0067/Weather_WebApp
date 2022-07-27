@@ -1,0 +1,53 @@
+body{
+    background-image: url(../Images/cloud.jpg);
+    padding: 50px;
+    height: 100%;
+    /* You must set a specified height */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+}
+.title {
+    padding: 2% 7%;
+    font-family: "Montserrat";
+    background-color: black;
+    opacity: 0.5;
+
+
+}
+
+h1 {
+    color: white;
+}
+
+
+
+.image {
+    margin: 0 10rem;
+    width: 15rem;
+}
+
+
+
+
+.heading{
+    font-family: "Montserrat";
+    
+}
+#head{
+    margin: auto;
+}
+@media (max-width: 835px) {
+    .input{
+        width: 150px;
+    }
+    .d-flex{
+        justify-content: center;
+    }
+    
+    .detail{
+        text-align: center;
+    }
+}
